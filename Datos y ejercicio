@@ -1,1 +1,21 @@
 Bringas Olmos Ailyn creó este archivo
+Ortiz Lossel Niza Alexa editó este archivo
+EJEMPLO DEL ALGORITMO HECHO POR MI
+Entrar a la UNAM a la carrera de Medicina una vez terminado el bachillerato sin pase reglamentado
+
+Análisis
+
+Entrada: Conocimientos y aptitudes en el área de la salud. Aprobar el examen de ingreso a la licenciatura.
+
+Restricciones: Presentar el examen y obtener el puntaje establecido por la UNAM para entrar a la carrera de Medicina.
+
+Salida: Entrar a la UNAM a la carrera de Medicina.
+
+Diseño:
+	1. Inicio
+	2. Hacer el examen de aptitudes.
+	3. ¿Se obtuvo el porcentaje requerido para la carrera de Medicina?
+	Sí, ir al paso 4
+	No, ir al paso 2
+	4. Realizar la inscripción.
+	5. Final
